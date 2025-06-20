@@ -1,0 +1,12 @@
+.imageflex {
+     display: flex; 
+    }
+.imageflexcontent {
+     margin-left: 5px; margin-top: 0; font-size: 200%;
+    }
+p {
+    color: rgb(255, 255, 255);
+  }
+body {
+    background-color: rgb(79, 79, 228); color: #ffffff;
+}
